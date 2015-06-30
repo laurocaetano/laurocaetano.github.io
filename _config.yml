@@ -4,7 +4,7 @@ email:       laurocaetano1@gmail.com
 author:      Lauro Caetano
 description: "About programming"
 baseurl:     ""
-url:         "laurocaetano.github.io"
+url:         "http://laurocaetano.github.io"
 
 # Google analytics
 google_analytics: UA-64638719-1
