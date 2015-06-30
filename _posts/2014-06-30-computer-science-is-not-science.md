@@ -8,7 +8,7 @@ categories: Programming
 
 > It is not a science, it might be engineering, it might be art.
 
-> It's about formalize intuitions about process. It's about
+> It's about formalizing intuitions about process. It's about
 > how to do things and how to develop a way to talk precisely.
 
 > So in that sense, Computer Science is an abstraction of Engineering.
@@ -16,7 +16,7 @@ categories: Programming
 
 This is how the first lecture of the famous [MIT SICP](https://www.youtube.com/playlist?list=PLB63C06FAF154F047) starts.
 
-For some time I was flirting with those classes and finally I started watching them.
+For some time I was flirting with those classes and finally started watching them.
 In this post (by the way, it's the first one) I will share some highlights I've found
 interesting in this first class.
 
@@ -25,15 +25,15 @@ This abstraction is a common ground on all kinds of engineering. You take someth
 and build a box about it.
 
 For example the square root method. You can build a box around this method which
-may contain a complicated set of rules, but you don't need to know how it proceeds
+may contain a complicated set of rules, but you don't need to know how it works
 in the inside.
 
 e.g.
 
 ![Square root method](/images/square_root.png "Square root method")
 
-The nice thing about this abstraction is that you can compose things without
-needing to know how these abstractions are inside. For example the sum of the
+The nice thing about this abstraction is that you can compose things without needing
+to know how these abstractions works. For example the sum of the
 square root of 4 and the square root of 2.
 
 There are a lot of black-boxes examples in this first class, but I will not
@@ -41,8 +41,8 @@ spoiler more than the basics :)
 
 ### Lisp
 This is one of the topics covered in this class. Lisp is used throughout all
-the course. Lisp is a simple language and since you learn the basic structure you are good to
-go to build your own abstractions.
+the course. Lisp is a simple language and after learning the basic structure you
+are good to go to build your own abstractions.
 
 One interesting thing I have never thought about was the way I am used to learn new
 languages. Usually I start from the basics, learning the syntax and then
@@ -53,7 +53,7 @@ nice.
 It is described as:
 
   * Primitive elements - These are elements like numbers, strings and etc.
-  * Means of combination - This to take these primitive elements and put things together.
+  * Means of combination - Take these primitive elements and put things together.
   * Means of abstraction - How do we take those complicated things and draw those boxes around it.
 
 #### Primitive elements in Lisp
@@ -79,7 +79,7 @@ Where:
 
 ![Lisp combinations](/images/combination.png "Lisp combination")
 
-And we can have more complex things, like combining more than one expressions.
+And we can have more complex things, like combining more than one expression.
 
 ```Lisp
   (+ 12 (* 2 3))
@@ -110,7 +110,7 @@ B
 ### Square root example
 One of the examples shown on this first class was the square root problem. It is
 solved in Lisp in this class, but since I was trying to getting back to Clojure
-again I solved in Clojure.
+again I solved it in Clojure.
 
 The description of the square root method in this class is:
 
