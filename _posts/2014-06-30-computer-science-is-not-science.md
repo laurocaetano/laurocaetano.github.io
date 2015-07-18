@@ -104,7 +104,7 @@ e.g.
 ```lisp
 (DEFINE B (+ A (*5 A)))
 B
-; => 125
+; => 150
 ```
 
 ### Square root example
@@ -112,7 +112,7 @@ One of the examples shown on this first class was the square root problem. It is
 solved in Lisp in this class, but since I was trying to getting back to Clojure
 again I solved it in Clojure.
 
-The description of the square root method in this class is:
+The description of the square root method in this class is: (a.k.a Newton's Method)
 
   * Make a guess G
   * Improve the guess by averaging G and X/G
