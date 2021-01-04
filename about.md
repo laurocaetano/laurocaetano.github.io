@@ -14,4 +14,4 @@ RubyConf Brazil and TDC Brazil.
 
 He is currently working as a Tech Lead at N26.
 
-You can find his code on [github](github.com/laurocaetano).
+You can find his code on [github](https://www.github.com/laurocaetano).
