@@ -37,7 +37,7 @@ If you are into motorsports, and especially Formula 1, you will find in this boo
 
 ### Communication
 
-![](images/cultural-map.jpg)
+![](/images/cultural-map.jpg)
 
 Our fourth book on the list is [The Cultural Map](https://www.goodreads.com/book/show/22085568-the-culture-map), from Erin Meyer.
 
