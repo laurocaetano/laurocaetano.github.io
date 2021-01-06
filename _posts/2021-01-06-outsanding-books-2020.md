@@ -10,7 +10,7 @@ categories: Programming
 
 ### Engineering
 
-![](/images/database-internals.jpg)
+<div style="text-align:center"><img src="/images/database-internals.jpg" /></div>
 
 
 The first book that comes to my mind is [Database Internals](https://www.goodreads.com/book/show/44647144-database-internals), by Alex Petrov. If you've read [DDIA from Martin Klepmann](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications), I'm sure you will enjoy this one too.
@@ -21,7 +21,7 @@ All in all, it was a pleasant read and highly recommended.
 
 ### Company Culture
 
-![](/images/no-rule-rules.jpg)
+<div style="text-align:center"><img src="/images/no-rule-rules.jpg" /></div>
 
 The second book is [No Rules Rules: Netflix and the Culture of Reinvention](https://www.goodreads.com/book/show/49099937-no-rules-rules), by Reed Hastings, Erin Meyer.
 
@@ -29,7 +29,7 @@ I have to be honest with this one, as I was already a fan of the Netflix Cultura
 
 ### Autobiography
 
-![](/images/how-to-build-a-car.jpg)
+<div style="text-align:center"><img src="/images/how-to-build-a-car.jpg" /></div>
 
 Going on with our third book, we now talk about Formula 1! The book is [How to Build a Car](https://www.goodreads.com/book/show/35657708-how-to-build-a-car), by Adrian Newey (some people say the best F1 car designer of all times).
 
@@ -37,7 +37,7 @@ If you are into motorsports, and especially Formula 1, you will find in this boo
 
 ### Communication
 
-![](/images/cultural-map.jpg)
+<div style="text-align:center"><img src="/images/cultural-map.jpg" /></div>
 
 Our fourth book on the list is [The Cultural Map](https://www.goodreads.com/book/show/22085568-the-culture-map), from Erin Meyer.
 
@@ -45,7 +45,7 @@ Working at an international company, in a foreign country, was challenging for m
 
 ### Psychology
 
-![](/images/gifted-child.jpg)
+<div style="text-align:center"><img src="/images/gifted-child.jpg" /></div>
 
 The fifth and last book on our list is [The Drama of the Gifted Child](https://www.goodreads.com/book/show/4887.The_Drama_of_the_Gifted_Child), by Alice Miller.
 
