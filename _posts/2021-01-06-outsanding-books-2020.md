@@ -6,7 +6,7 @@ summary:
 categories: Programming
 ---
 
-2020 was a challenging year for all of us, and for me, it was no different. Reading was one of the activities that brought me lots of fun and made me forget about everything that was out of my control. In total, [I read 28 books in 2020](https://www.goodreads.com/user/year_in_books/2020/44680386), and in this blog post, I list 5 of them, divided into 5 categories, that were outstanding in my eyes.
+2020 was a challenging year for all of us, and for me, it was no different. Reading was one of the activities that brought me lots of fun and made me forget about everything that was out of my control. In total, [I read 28 books in 2020](https://www.goodreads.com/user/year_in_books/2020/44680386), and in this blog post I list 5 of them, divided into 5 categories, that were outstanding in my eyes.
 
 ### Engineering
 
