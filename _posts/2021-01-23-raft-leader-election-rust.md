@@ -177,7 +177,7 @@ if has_won_the_election(&server, rpc_response) {
 
 ##### Election timeout and discovering another leader
 
-In case a timeout occurs or the server does not get the majority of the votes, it will start the election once again, increasing the term once more. In Raft, it is totally fine to have terms without an leader.
+In case a timeout occurs or the server does not get the majority of the votes, it will start the election once again, increasing the term once more. In Raft, it is totally fine to have terms without a leader.
 
 Another interesting case can occur during the election process: another server in the cluster is elected, and starts sending heartbeats. When this occurs, our server changes back the state from `CANDIDATE` to `FOLLOWER`, and set the terms to the current leader's term.
 
